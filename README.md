@@ -35,3 +35,64 @@ The following Course-grained Universal Dependencies parts of speech tags (UPOS),
 | X  | FW  | Foreign word  |
 
 
+We used the Universal Dependencies annotation scheme which produces syntactic analyses of sentences in terms of the dependency structures of dependency grammar, determined by the relation between a head and its dependents. The syntactic annotation consists of 42 dependency relations, including 32 universal and 10 language-specific relations (marked by *). 
+
+| Dependency relation  | Description |
+| ------------- | ------------- |
+| acl  | Clausal modifier of noun  |
+| acl:relcl<sup>*</sup>  | relative clause modifier  |
+| advcl  | Adverbial clause modifier  |
+| advmod  | Adverbial modifier  |
+| amod  | Adjectival modifier  |
+| appos  | Appositional modifier |
+| aux  | Auxiliary  |
+| aux:pass  | Passive auxiliary  |
+| case  | Accusative marker/case marking  |
+| cc  | Coordination  |
+| cc:preconj<sup>*</sup>  | Preconjunction  |
+| ccomp  | Clausal complement  |
+| compound  | Compound  |
+|  compound:lvc<sup>*</sup> | Nominal/adjectival NVE in complex predicates  |
+| compound:prt<sup>*</sup>  | Particle NVE in complex predicates  |
+| compound:redup<sup>*</sup>  | Reduplicative words |
+| compound:svc<sup>*</sup>  | Serial verb constructions  |
+| conj  | Conjunct  |
+| Cop  | Copula  |
+| det  | Determiner  |
+| det:predet<sup>*</sup>  | Predeterminer  |
+| discourse  | Discourse element |
+| discourse:top/foc<sup>*</sup>  | Topic/focus marker  |
+| dislocated | Dislocated elements  |
+| fixed  | Fixed multiword expressions  |
+| flat  | Flat multiword expressions   |
+| goeswith  | Goes with for poorly-edited words  |
+| nmod  | Nominal modifier  |
+| nmod:poss<sup>*</sup>  | Possessive/genitive modifier  |
+| nsubj  | Nominal subject  |
+| nsubj:pass  | Passive nominal subject  |
+| nummod  | Numeric modifier  |
+| mark  | Complementizer/marker  |
+| obj  | Object |
+| obl  | Oblique  |
+| obl:arg<sup>*</sup>  | Oblique core argument  |
+| orphan  | Ellipsis constructions  |
+| parataxis  | Parataxis  |
+| punct  | Punctuation  |
+| root  | Root |
+| vocative  | Vocative  |
+| xcomp  | Open clausal complement  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
