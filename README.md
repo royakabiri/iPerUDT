@@ -1,5 +1,5 @@
 # Informal Persian Universal Dependency Treebank (iPerUDT)
-Informal Persian Universal Dependency Treebank is an open source collection of informal texts from open access Persian blogs. The corpus is annotated in CoNLL-U format  within the Universal Dependencies scheme.
+Informal Persian Universal Dependency Treebank, consisting of 3000 sentences and 54,904 tokens, is an open source collection of colloquial informal texts from Persian blogs. The corpus is annotated in CoNLL-U format within the Universal Dependencies scheme (Nivre et al., 2020).
 
 The following Course-grained Universal Dependencies parts of speech tags (UPOS), and fine-grained language-specific parts of speech tags (XPOS) are used in this treebank. 
 
@@ -33,7 +33,6 @@ The following Course-grained Universal Dependencies parts of speech tags (UPOS),
 | VERB  | V_PRS | Present tense verb  |
 | VERB  | V_SUB  | subjunctive verb  |
 | X  | FW  | Foreign word  |
-
 
 We used the Universal Dependencies annotation scheme which produces syntactic analyses of sentences in terms of the dependency structures of dependency grammar, determined by the relation between a head and its dependents. The syntactic annotation consists of 42 dependency relations, including 32 universal and 10 language-specific relations (marked by *). 
 
@@ -83,6 +82,9 @@ We used the Universal Dependencies annotation scheme which produces syntactic an
 | xcomp  | Open clausal complement  |
 
 
+# References 
+
+Nivre, Joakim, Marie-Catherine de Marneffe, Filip Ginter, Jan Hajič, Christopher D. Manning, Sampo Pyysalo, Sebastian Schuster, Francis M. Tyers, and Dan Zeman. (2020). Universal dependencies v2: An evergrowing multilingual treebank collection. In Proceedings of the 12th Conference on Language Resources and Evaluation (LREC), 4027–4036.
 
 
 
