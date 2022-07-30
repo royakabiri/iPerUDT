@@ -1,13 +1,13 @@
 # Informal Persian Universal Dependency Treebank (iPerUDT)
-Informal Persian Universal Dependency Treebank, consisting of 3000 sentences and 54,904 tokens, is an open source collection of colloquial informal texts from Persian blogs. The corpus is annotated in CoNLL-U format within the Universal Dependencies scheme (Nivre et al., 2020).
+**Informal Persian Universal Dependency Treebank**, consisting of 3000 sentences and 54,904 tokens, is an open source collection of colloquial informal texts from Persian blogs. The corpus is annotated in CoNLL-U format within the Universal Dependencies scheme (Nivre et al., 2020).
 
-If you use iPerUDT in your work, please cite this paper:
+If you use **iPerUDT** in your work, please cite this paper:
 
-Kabiri, Roya, Simin Karimi, and Mihai Surdeanu. (2022). Informal Persian universal dependency treebank. In Proceedings of the 5th International Conference on Language Resources and Evaluation (LREC), 7096-7105. Marseille, France.
+**Kabiri, Roya, Simin Karimi, and Mihai Surdeanu. (2022). [Informal Persian universal dependency treebank](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.768.pdf). In Proceedings of the 5th International Conference on Language Resources and Evaluation (LREC), 7096-7105. Marseille, France.**
 
 This treebank was developed as a building block of the following PhD dissertation:
 
-Kabiri, Roya. (2022). Neural Dependency Parsing of Informal Persian. PhD Dissertation. University of Arizona, Tucson, Arizona, USA. 
+**Kabiri, Roya. (2022). Neural Dependency Parsing of Informal Persian. PhD Dissertation. University of Arizona, Tucson, Arizona, USA.** 
 
 
 
@@ -94,7 +94,7 @@ We used the Universal Dependencies annotation scheme which produces syntactic an
 
 
 # Acknoledgments 
-We would like to thank Roshan Cultural Heritage Institute and Dr. Malakeh Taleghani Graduate Fellowship in Iranian Studies for their support and financial contribution. We are also grateful to Farzaneh Bakhtiary for her help with the annotation.
+We would like to thank [Roshan Cultural Heritage Institute](https://roshan-institute.org/) and [Dr. Malakeh Taleghani Graduate Fellowship in Iranian Studies](https://linguistics.arizona.edu/node/545) for their support and financial contribution. We are also grateful to Farzaneh Bakhtiary for her help with the annotation.
 
 # References 
 
