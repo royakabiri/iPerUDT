@@ -93,6 +93,11 @@ We used the Universal Dependencies annotation scheme which produces syntactic an
 | xcomp  | Open clausal complement  |
 
 
+### Feedback and Bug Reports
+
+Feel free to contact royakabiri@arizona.edu for feedback and bug reports. 
+
+
 ### Acknoledgments 
 We would like to thank [Roshan Cultural Heritage Institute](https://roshan-institute.org/) and [Dr. Malakeh Taleghani Graduate Fellowship in Iranian Studies](https://linguistics.arizona.edu/node/545) for their support and financial contribution. We are also grateful to Farzaneh Bakhtiary for her help with the annotation.
 
