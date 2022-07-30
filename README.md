@@ -5,9 +5,13 @@ If you use iPerUDT in your work, please cite this paper:
 
 Kabiri, Roya, Simin Karimi, and Mihai Surdeanu. (2022). Informal Persian universal dependency treebank. In Proceedings of the 5th International Conference on Language Resources and Evaluation (LREC), 7096-7105. Marseille, France.
 
+This treebank was developed as a building block of the following PhD dissertation:
+
+Kabiri, Roya. (2022). Neural Dependency Parsing of Informal Persian. PhD Dissertation. University of Arizona, Tucson, Arizona, USA. 
 
 
 
+# Summary of Annotation Schema
 The following Course-grained Universal Dependencies parts of speech tags (UPOS), and fine-grained language-specific parts of speech tags (XPOS) are used in this treebank. 
 
 
@@ -88,6 +92,9 @@ We used the Universal Dependencies annotation scheme which produces syntactic an
 | vocative  | Vocative  |
 | xcomp  | Open clausal complement  |
 
+
+# Acknoledgments 
+We would like to thank Roshan Cultural Heritage Institute and Dr. Malakeh Taleghani Graduate Fellowship in Iranian Studies for their support and financial contribution. We are also grateful to Farzaneh Bakhtiary for her help with the annotation.
 
 # References 
 
