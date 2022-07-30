@@ -11,7 +11,7 @@ This treebank was developed as a building block of the following PhD dissertatio
 
 
 
-# Summary of Annotation Schema
+### Summary of Annotation Schema
 The following Course-grained Universal Dependencies parts of speech tags (UPOS), and fine-grained language-specific parts of speech tags (XPOS) are used in this treebank. 
 
 
@@ -93,10 +93,10 @@ We used the Universal Dependencies annotation scheme which produces syntactic an
 | xcomp  | Open clausal complement  |
 
 
-# Acknoledgments 
+### Acknoledgments 
 We would like to thank [Roshan Cultural Heritage Institute](https://roshan-institute.org/) and [Dr. Malakeh Taleghani Graduate Fellowship in Iranian Studies](https://linguistics.arizona.edu/node/545) for their support and financial contribution. We are also grateful to Farzaneh Bakhtiary for her help with the annotation.
 
-# References 
+### References 
 
 Nivre, Joakim, Marie-Catherine de Marneffe, Filip Ginter, Jan Hajič, Christopher D. Manning, Sampo Pyysalo, Sebastian Schuster, Francis M. Tyers, and Dan Zeman. (2020). Universal dependencies v2: An evergrowing multilingual treebank collection. In Proceedings of the 12th Conference on Language Resources and Evaluation (LREC), 4027–4036.
 
